@@ -8,7 +8,7 @@ const Header = () => {
 
         <div >
             <div className='flex h-[140px] mt-[40px]'>
-                <div><p className='text-[26px] text-[#FB3F6C] ml-[115px]'>Websure Technology</p></div>
+                <div><p className='text-[26px] text-[#FB3F6C] ml-[115px] font-[700]'>Websure Technology</p></div>
                 <div className='flex'>
                     <p className='ml-[115px]'>About Us</p>
                     <p className='ml-[50px]'>Services</p>
@@ -16,7 +16,7 @@ const Header = () => {
                     <p className='ml-[50px]'>ROI stories</p>
                     <p className='ml-[50px]'>Blog</p>
                     <p className='ml-[50px]'>Contact Us</p>
-                    <button className='mb-[200px] ml-[20px] border-2 w-[100px] h-[50px] rounded-md'>Lets Talk</button>
+                    <button className='mb-[200px] ml-[20px] border-2 w-[100px] h-[50px] rounded-3xl font-[700]'>Lets Talk</button>
                 </div>
                 
             </div>
@@ -38,7 +38,7 @@ const Header = () => {
             </div>
 
             <div className='flex'>
-                <button className='w-[150px] h-[50px] rounded-xl bg-[#FF698D] text-[#FFFF]'>Gets Started</button>
+                <button className='w-[150px] h-[50px] rounded-xl font-[700] bg-[#FF698D] text-[#FFFF]'>Gets Started</button>
                 <p className='ml-[50px] font-[700]'>Book a 30 Min Quick Meeting</p>
 
             </div>

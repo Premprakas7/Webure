@@ -16,25 +16,25 @@ const Info = () => {
         </div>
 
         <div className='flex h-[200px]'>
-            <div className='ml-[90px]'>
+            <div className='ml-[90px] '>
                 <p className='text-[#F17216] text-[12px]'>SERVICES</p>
                 <p className='text-[36px] font-[700]'>Our Capabilities</p>
-                <p className='w-[230px] font-[10px]'>Lorem ipsum dolor sit amet consectetur . Iusto excepturi, sequi animi provident illum molestias?</p>
+                <p className='w-[250px] font-[12px] text-left'>We will bring the breathe of our experience and industry knowledge to help you succeed</p>
             </div>
-            <div className='ml-[90px]'>
+            <div className='ml-[120px]'>
                 <img src="" alt="" />
                 <p className='text-[16px] font-[700]'>Consult</p>
-                <p className='w-[230px] font-[10px]'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. , ullam consequuntur maiores?</p>
+                <p className='w-[230px] font-[10px] text-left'>Leverage agile framework to provide a robust high level synopsys overviews</p>
             </div>
             <div className='ml-[90px]'>
             <img src="" alt="" />
                 <p className='text-[16px] font-[700]'>Create</p>
-                <p className='w-[230px] font-[10px]'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. , ullam consequuntur maiores?</p>
+                <p className='w-[230px] font-[10px] text-left'>Bring to the table survival strategies to ensure proactive domination</p>
             </div>
             <div className='ml-[90px]'>
             <img src="" alt="" />
                 <p className='text-[16px] font-[700]'>Collaborate</p>
-                <p className='w-[230px] font-[10px]'> Lorem ipsum dolor sit, amet consectetur adipisicing elit.  ullam consequuntur maiores?</p>
+                <p className='w-[230px] font-[10px] text-left'> Grow the holistic world view of disruptive innovation workspace</p>
             </div>
         </div>
 
@@ -60,8 +60,8 @@ const Info = () => {
                     <p className='text-[#CED1E5]'>Deal Structuring</p>
                 </div>
                 <div className='flex text-[20px] mt-[20px] mb-[10px]'>
-                    <input type="Enter your mail id"  className='border-y-purple-900'/>
-                    <button className='text-[#FFFF] bg-[#FF698D] w-[150px] h-[50px] rounded-md'>Get Started</button>
+                    <input type="Enter your mail id"  className='bg-[#282C4B] border-b-[2px]'/>
+                    <button className='text-[#FFFF] bg-[#FF698D] w-[150px] h-[50px] rounded-3xl'>Get Started</button>
                 </div>
             </div>
 
